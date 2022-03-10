@@ -1,6 +1,6 @@
 {
   "name": "Spaceship",
-  "start_url": "Doodles_Vehicle_v2_Dream.glb",
+  "start_url": "ToonSpaceship_v3.glb",
   "components": [
     {
       "key": "sit",
