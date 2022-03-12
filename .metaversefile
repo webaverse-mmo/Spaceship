@@ -1,6 +1,6 @@
 {
   "name": "Spaceship",
-  "start_url": "ToonSpaceship_v3.glb",
+  "start_url": "ToonSpaceship_v4.glb",
   "components": [
     {
       "key": "sit",
